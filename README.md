@@ -7,4 +7,4 @@ I'm an [openSUSE](https://www.opensuse.org/) member, [LXQt](https://lxqt-project
 * [panini](https://github.com/lazarus-pkgs/panini)
 * [vifm-colors](https://github.com/vifm/vifm-colors)
 
-For a list of more projects I contributed to, including ones that are not on GitHub see this [site](http://iodoru.org/gontrib.html).
+For a list of more projects I contributed to, including ones that are not on GitHub, see this [site](http://iodoru.org/gontrib.html).
