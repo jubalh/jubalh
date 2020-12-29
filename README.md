@@ -1,4 +1,4 @@
-I'm an [openSUSE](https://www.opensuse.org/) member, [LXQt](https://lxqt-project.org/) team member and (co-)maintainer of
+I'm an [openSUSE](https://www.opensuse.org/) member, [LXQt](https://lxqt-project.org/) and [openSUSEway](https://en.opensuse.org/Portal:OpenSUSEway) team member and (co-)maintainer of
 * [profanity](https://github.com/profanity-im/profanity)
 * [nudoku](https://github.com/jubalh/nudoku)
 * [jasper](https://github.com/jasper-software/jasper)
