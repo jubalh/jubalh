@@ -1,4 +1,7 @@
-I'm an [openSUSE](https://www.opensuse.org/) member, [LXQt](https://lxqt-project.org/) and [openSUSEway](https://en.opensuse.org/Portal:OpenSUSEway) team member and (co-)maintainer of
+I'm an [openSUSE](https://www.opensuse.org/) member,
+[LXQt](https://lxqt-project.org/) and
+[openSUSEway](https://en.opensuse.org/Portal:OpenSUSEway) team member and
+(co-)maintainer of
 * [profanity](https://github.com/profanity-im/profanity)
 * [nudoku](https://github.com/jubalh/nudoku)
 * [jasper](https://github.com/jasper-software/jasper)
@@ -8,3 +11,7 @@ I'm an [openSUSE](https://www.opensuse.org/) member, [LXQt](https://lxqt-project
 * [vifm-colors](https://github.com/vifm/vifm-colors)
 
 For a list of more projects I contributed to, including ones that are not on GitHub, see this [site](http://iodoru.org/gontrib.html).
+
+My awesome lists:
+* [awesome-os](https://github.com/jubalh/awesome-os)
+* [awesome-plymouth](https://github.com/jubalh/awesome-plymouth)
