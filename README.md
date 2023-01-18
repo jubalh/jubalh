@@ -14,4 +14,5 @@ For a list of more projects I contributed to, including ones that are not on Git
 
 My awesome lists:
 * [awesome-os](https://github.com/jubalh/awesome-os)
+* [awesome-package-maintainer](https://github.com/jubalh/awesome-package-maintainer)
 * [awesome-plymouth](https://github.com/jubalh/awesome-plymouth)
